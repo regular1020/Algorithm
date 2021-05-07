@@ -8,6 +8,7 @@ def solution(n):
         n = n//3
     return answer
 
+
 if __name__ == '__main__':
     num = int(input())
     print(solution(num))
