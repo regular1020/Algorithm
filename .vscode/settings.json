@@ -6,6 +6,9 @@
         "xstring": "cpp",
         "xutility": "cpp",
         "string": "cpp",
-        "cstddef": "cpp"
+        "cstddef": "cpp",
+        "map": "cpp",
+        "xtree": "cpp",
+        "utility": "cpp"
     }
 }
